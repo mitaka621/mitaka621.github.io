@@ -19,6 +19,9 @@ body {
   padding: 15px 0;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .menu a {
@@ -50,7 +53,7 @@ body {
 /* Title styles */
 .title {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 150px;
   font-size: 40px;
   color: #333;
   font-weight: bold;
